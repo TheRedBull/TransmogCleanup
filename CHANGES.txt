@@ -1,0 +1,16 @@
+lightweight tag 93078f7bbd0cad485d5c31108a1ecbd4a9d77564 v10.1.5-2
+Author:	elvador <reysptools@googlemail.com>
+Date:	Thu Jul 13 23:12:04 2023 +0200
+
+commit 93078f7bbd0cad485d5c31108a1ecbd4a9d77564
+Author: elvador <reysptools@googlemail.com>
+Date:   Thu Jul 13 23:12:04 2023 +0200
+
+    Allow selling of grey items
+
+commit c50d77b2f6bb4838ef8afde79fc27ce9d04a9403
+Author: elvador <reysptools@googlemail.com>
+Date:   Thu Jul 13 22:44:50 2023 +0200
+
+    Update .gitignore
+

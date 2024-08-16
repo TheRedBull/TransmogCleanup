@@ -1,7 +1,7 @@
-## Interface: 100002
+## Interface: 110002
 ## Title: TransmogCleanup
 ## Notes: Cleanup your bag from items you already learned to transmog
-## Author: Elvador
+## Author: Elvador updated by TheR3dBull
 ## SavedVariables: TransmogCleanupDB
 
 #@no-lib-strip@

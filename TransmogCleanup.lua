@@ -15,12 +15,12 @@ local addon = TransmogCleanup
 TransmogCleanupDB = {}
 addon.db = TransmogCleanupDB
 
-local version = "@project-version@"
+local version = "v10.1.5-2"
 local debug = false
---@debug@
+--[===[@debug@
 version = "(git)"
 debug = true
---@end-debug@
+--@end-debug@]===]
 
 --------------------------------------------------------------------------------
 -- Upvalues
@@ -71,7 +71,7 @@ local sellWindow = nil
 local scanningTooltip = nil
 local updateItemListThrottle = nil
 local lastWindowState = nil
-local maxIlvl = 450
+local maxIlvl = 550
 local itemQualities = {
 	[0] = {0.62, 0.62, 0.62}, -- poor, force index to 0
 	{   1,    1,    1}, -- common
